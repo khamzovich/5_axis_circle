@@ -2,7 +2,7 @@
 
 Program defines coordinates of print head by three lines for printer calibration.
 
-Desktop version created with PyQt5.
+Desktop version is created with PyQt5.
 
 Main window:
 
