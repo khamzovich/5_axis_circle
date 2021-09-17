@@ -11,4 +11,4 @@ Create app from script:
 
 Main window:
 
-![image](https://github.com/khamzovich/5axis_circle/raw/main/images/5_axis_circle_window.png)
+![image](https://github.com/khamzovich/5axis_circle/raw/master/images/5_axis_circle_window.png)
