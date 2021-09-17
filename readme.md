@@ -11,4 +11,7 @@ Create app from script:
 
 Main window:
 
-![image](https://github.com/khamzovich/5axis_circle/raw/master/images/5_axis_circle_window.png)
+![image](https://github.com/khamzovich/5axis_circle/raw/main/master/images/5_axis_circle_window.png)
+
+
+https://github.com/khamzovich/map_russia/raw/main/images/density.png
