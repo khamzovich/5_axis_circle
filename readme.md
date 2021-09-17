@@ -8,7 +8,7 @@ Main window:
 
 ![image](https://github.com/khamzovich/axis5d_circle/raw/master/images/5_axis_circle_window.PNG)
 
-Visualisation:
+Matplotlib diagram:
 
 ![image](https://github.com/khamzovich/axis5d_circle/raw/master/images/diagram.PNG)
 
